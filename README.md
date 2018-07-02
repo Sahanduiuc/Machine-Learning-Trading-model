@@ -1,2 +1,2 @@
-# Machine-Learning-Trading-model
-Trading algorithm developed in Python
+# machine-learning-samples
+Python scripts implementing various machine learning strategies
